@@ -1,4 +1,4 @@
-# 交互主权协议（Interaction Sovereignty Protocol, ISP）  
+# 交互主权协议（Interaction Sovereignty Protocol）  
 ## 全称：基于交互主权的AI人机交互约束框架
 
 ---
